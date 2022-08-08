@@ -1,2 +1,3 @@
 # projeto-front-end-de-um-e-commerce-utilizando-Angular
-E-commerce com angular
+Projeto E-commerce com angular do Santander Bootcamp Fullstack Developer DIO
+
